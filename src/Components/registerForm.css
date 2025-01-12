@@ -1,0 +1,28 @@
+.register-form-container{
+    border: 2px solid #3271e7;
+    border-radius: 20px;
+    padding-right: 40px;
+    width:400px;
+    height: 600px;
+
+}
+
+.registerBtn{
+    margin-top: px;
+    justify-content: center;
+    margin-left: 20px;
+    height: 40px;
+    width: 150px;
+    font-weight: 500;
+    font-size:medium;
+}
+
+.label-bold {
+    font-weight: bold;
+    font-size:larger;
+    color: rgb(127, 126, 126);
+  }
+
+  .input-field {
+    height: 35px;
+  }
